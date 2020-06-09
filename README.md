@@ -1,4 +1,4 @@
-##Functional Programming in Clojure
+## Functional Programming in Clojure
 
 #### Zadanie 1.
   Zmień procedurę heron znajdującą się w pliku: https://github.com/kongra/SAN/blob/master/2020%20letni%20(Spring)/Clojure%20(PF)/fp/src/fp/heron.clj
